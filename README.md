@@ -1,6 +1,6 @@
 # V13-Lulu-Bots
 
-Selamlar, V14 Geçmeden önce kullandığım botları burada paylaşacağım. Botları altaki görsellerden inceleyebilirsiniz.
+Selamlar, V14 Geçmeden önce kullandığım botları burada paylaşacağım. Botları altaki görsellerden inceleyebilirsiniz. Botlarda bana fikir veren Approval kardeşime ve bana yardımı dokunan luhux kardeşime buradan teşşekürler...
 
 # Kurulum
 
