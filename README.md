@@ -1,6 +1,6 @@
 # V13-Lulu-Bots
 
-Açıklama.
+Selamlar, V14 Geçmeden önce kullandığım botları burada paylaşacağım. Botları altaki görsellerden inceleyebilirsiniz.
 
 # Kurulum
 
