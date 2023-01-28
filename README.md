@@ -12,7 +12,6 @@ Selamlar, V14 Geçmeden önce kullandığım botları burada paylaşacağım. Bo
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi açın.
 * ```npm install``` yazarak tüm modülleri kurun.
 * Kurulum bittikten sonra ```npm start``` yazın ve botu başlatın. Tebrikler!
-#
 
 # Not: 
 
